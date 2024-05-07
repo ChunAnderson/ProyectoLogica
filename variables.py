@@ -7,7 +7,7 @@ perimetro=2*base+2*altura
 print('El área del rectangulo es ', area)
 print('El permietro del rectangulo es ', perimetro)
 
-
+    
 base=0
 altura=0
 base=float(input('Ingrese la base del rectangulo '))
@@ -57,4 +57,5 @@ if edad>=18:
     print('Es mayor de edad ')
 else:
     print('Es menor de edad ')
+    
 
